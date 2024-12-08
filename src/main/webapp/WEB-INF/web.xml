@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element>
+	<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+         http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+		version="3.1">
+
+
+		<servlet>
+			<servlet-name>user_signup_Servlet</servlet-name>
+			<servlet-class>com.user.user_signup_Servlet</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>user_signup_Servlet</servlet-name>
+			<url-pattern>/user_signup_Servlet</url-pattern>
+		</servlet-mapping>
+		
+		<servlet>
+			<servlet-name>user_profile_servlet</servlet-name>
+			<servlet-class>com.user.user_profile_servlet</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>user_profile_servlet</servlet-name>
+			<url-pattern>/user_profile_servlet</url-pattern>
+		</servlet-mapping>
+		
+		<servlet>
+			<servlet-name>user_update_servlet</servlet-name>
+			<servlet-class>com.user.user_update_servlet</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>user_update_servlet</servlet-name>
+			<url-pattern>/user_update_servlet</url-pattern>
+		</servlet-mapping>
+		
+		<servlet>
+			<servlet-name>user_delete_servlet</servlet-name>
+			<servlet-class>com.user.user_delete_servlet</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>user_delete_servlet</servlet-name>
+			<url-pattern>/user_delete_servlet</url-pattern>
+		</servlet-mapping>
+		
+		<servlet>
+			<servlet-name>vendor_insert</servlet-name>
+			<servlet-class>com.vendor.vendor_insert</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>vendor_insert</servlet-name>
+			<url-pattern>/vendor_insert</url-pattern>
+		</servlet-mapping>
+
+		<servlet>
+			<servlet-name>service_insert</servlet-name>
+			<servlet-class>com.service.service_insert</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>service_insert</servlet-name>
+			<url-pattern>/service_insert</url-pattern>
+		</servlet-mapping>
+
+
+		<servlet>
+			<servlet-name>vedorDeleteServlet</servlet-name>
+			<servlet-class>com.vendor.vedorDeleteServlet</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>vedorDeleteServlet</servlet-name>
+			<url-pattern>/vedorDeleteServlet</url-pattern>
+		</servlet-mapping>
+
+
+		<servlet>
+			<servlet-name>vedorUpdateRead</servlet-name>
+			<servlet-class>com.vendor.vedorUpdateReadServlet</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>vedorUpdateRead</servlet-name>
+			<url-pattern>/vedorUpdateReadServlet</url-pattern>
+		</servlet-mapping>
+
+		<servlet>
+			<servlet-name>serviceUpdateRead</servlet-name>
+			<servlet-class>com.vendor.serviceUpdateReadServlet</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>serviceUpdateRead</servlet-name>
+			<url-pattern>/serviceUpdateReadServlet</url-pattern>
+		</servlet-mapping>
+		
+				<servlet>
+			<servlet-name>serviceUpdate</servlet-name>
+			<servlet-class>com.vendor.serviceUpdateServlet</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>serviceUpdate</servlet-name>
+			<url-pattern>/serviceUpdateServlet</url-pattern>
+		</servlet-mapping>VendorUpdateServlet
+
+		<servlet>
+			<servlet-name>VendorUpdate</servlet-name>
+			<servlet-class>com.vendor.VendorUpdateServlet</servlet-class>
+		</servlet>
+		<servlet-mapping>
+			<servlet-name>VendorUpdate</servlet-name>
+			<url-pattern>/VendorUpdateServlet</url-pattern>
+		</servlet-mapping>
+
+	</web-app>
+</element>
