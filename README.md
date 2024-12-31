@@ -47,3 +47,12 @@ Whether you're a new user exploring our services, a customer planning your dream
 or an admin managing the system, we've got you covered every step of the way. Welcome 
 to our Event Planning System, where your special occasions become unforgettable 
 memories! </p><br>
+
+<p align="center"><img width="80%" height="80%" src="https://github.com/anushka9D/OOP-Project/blob/main/src/main/webapp/image/1.png" alt="image"></p>
+<p align="center"><img width="80%" height="80%" src="https://github.com/anushka9D/OOP-Project/blob/main/src/main/webapp/image/2.png" alt="image"></p>
+<p align="center"><img width="80%" height="80%" src="https://github.com/anushka9D/OOP-Project/blob/main/src/main/webapp/image/3.png" alt="image"></p>
+<p align="center"><img width="80%" height="80%" src="https://github.com/anushka9D/OOP-Project/blob/main/src/main/webapp/image/4.png" alt="image"></p>
+<p align="center"><img width="80%" height="80%" src="https://github.com/anushka9D/OOP-Project/blob/main/src/main/webapp/image/5.png" alt="image"></p>
+<p align="center"><img width="80%" height="80%" src="https://github.com/anushka9D/OOP-Project/blob/main/src/main/webapp/image/6.png" alt="image"></p>
+<p align="center"><img width="80%" height="80%" src="https://github.com/anushka9D/OOP-Project/blob/main/src/main/webapp/image/7.png" alt="image"></p>
+<p align="center"><img width="80%" height="80%" src="https://github.com/anushka9D/OOP-Project/blob/main/src/main/webapp/image/8.png" alt="image"></p>
